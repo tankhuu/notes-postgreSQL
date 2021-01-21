@@ -68,4 +68,5 @@ END;
 $$ LANGUAGE plpgsql VOLATILE;
 ```
 
-## Reference: https://wiki.postgresql.org/wiki/Clone_schema
+## Reference
+- https://wiki.postgresql.org/wiki/Clone_schema
